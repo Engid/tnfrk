@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./build",
+    "allowJs": true,
+    "target": "es3",
+    "strictNullChecks": true,
+    "noImplicitAny": true
+  },
+  "include": [
+    "./src/**/*",
+    "../TypeScript/Tone.d.ts"
+  ],
+  
+  "exclude": [
+    "node_modules"
+  ],
+
+
+}
+
+//"./tone/index.d.ts"
